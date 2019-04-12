@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec1c8825c36c52f4a808fb9e497e1071, type: 3}
+  m_Name: Pistol1
+  m_EditorClassIdentifier: 
+  weaponName: Pistol1
+  damageFactor: 0.302
+  shootKd: 0.5
+  bulletStartSpeed: 20
+  mass: 0.8
+  reloadKd: 3
+  magazineBulletsAmount: 8
+  extendedMagazin: 12
+  bulletType: 2
+  bulletStartSpreadX: 1
+  bulletAdditionalSpreadX: 1
+  bulletStartSpreadY: 1
+  bulletAdditionalSpreadY: 1

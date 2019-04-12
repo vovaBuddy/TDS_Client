@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a759910cecf1c44587ffe1b60cec27a, type: 3}
+  m_Name: Peacekeeper_WC
+  m_EditorClassIdentifier: 
+  weaponName: 2
+  damageFactor: 0.39
+  shootKd: 0.8
+  bulletStartSpeed: 30
+  mass: 2
+  reloadKd: 2
+  magazineBulletsAmount: 4
+  extendedMagazin: 4
+  bulletType: 2
+  aimTargetPrefab: ARAimTarget
